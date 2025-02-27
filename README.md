@@ -23,6 +23,11 @@ PixelMix/
 
 ---
 
+```sh
+git clone https://github.com/BuvaneshwariC/nst-project.git
+cd nst-project
+```
+
 # **🐳 Docker Setup**  
 
 ## **1️⃣ Building the Docker Image**  
