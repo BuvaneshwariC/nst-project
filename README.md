@@ -1,9 +1,6 @@
 # nst-project
 
 ### 🎨🖌 Creating Art with the help of Artificial Intelligence !
-
-Here's a **small documentation** for your project, including an overview, Docker setup, and how to run it.  
-
 ---
 
 ## **📝 Project Overview**  
